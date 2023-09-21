@@ -1,2 +1,2 @@
-# vsc-scm
+# vcs-scm
 to store raw code-HTML CSS JS-JAVA-DB SCRIPTS-ANISBLE-TERRAFORM
